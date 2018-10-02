@@ -1955,6 +1955,7 @@ body {
 
 .card-text{
   text-align: center;
+  color: #0a4e90;
 }
 
 .button-card{
@@ -1970,3 +1971,8 @@ body {
   font-size: 15px;
   margin-left: 130px;
   }
+  
+  .text-card{
+  text-align: center;
+  color: #000 !important;
+}
