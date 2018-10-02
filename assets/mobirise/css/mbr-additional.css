@@ -1947,6 +1947,11 @@ body {
 }
 
 .imagem-icone{
-  width: 40px;
-  height: 70px;
+  width: 120px;
+  height: 120px;
+  margin-left: 160px;
+}
+
+.card-text{
+  text-align: center;
 }
