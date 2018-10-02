@@ -1364,7 +1364,7 @@ pre {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background-color: white;
+  background-color: 
  }
 .note-air-layout .dropup .dropdown-menu,
 .note-air-layout .navbar-fixed-bottom .dropdown .dropdown-menu {
@@ -1980,4 +1980,15 @@ body {
   .text-card{
   text-align: center;
   color: #000 !important;
+}
+
+.contact-text{
+  text-align: center;
+  color: #000;
+  font-size: 35px;
+}
+
+.contact-description{
+  color: #000;
+  font-size: 15px;
 }
