@@ -1364,7 +1364,8 @@ pre {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-}
+  background-color: white;
+ }
 .note-air-layout .dropup .dropdown-menu,
 .note-air-layout .navbar-fixed-bottom .dropdown .dropdown-menu {
   bottom: initial !important;
