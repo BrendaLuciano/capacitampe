@@ -2055,7 +2055,7 @@ body {
     transition: all 0.3s;
 }
 .team-member:hover .team-hover .desk {
-    top: 70%;
+    top: 80%;
 }
 .team-member:hover .team-hover, .team-member:hover .team-hover .desk, .team-member:hover .team-hover .s-link {
     opacity: 1;
