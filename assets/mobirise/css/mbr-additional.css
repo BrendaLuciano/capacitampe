@@ -1901,7 +1901,7 @@ body {
   color: #f36;
 }
 .cid-qUjpfWpzua .media-wrap img {
-  height: 6rem;
+  height: 11rem;
 }
 @media (max-width: 767px) {
   .cid-qUjpfWpzua .footer-lower .copyright {
@@ -1985,8 +1985,8 @@ body {
 .contact-text{
   text-align: center;
   color: #000;
-  font-size: 35px;
-  margin-right: 50px; 
+  font-size: 25px;
+
 }
 
 .contact-description{
@@ -1999,4 +1999,3 @@ body {
   font-size: 20px;
   font-weight: bold; 
 }
-
