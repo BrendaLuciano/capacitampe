@@ -2055,7 +2055,7 @@ body {
     transition: all 0.3s;
 }
 .team-member:hover .team-hover .desk {
-    top: 80%;
+    top: 50%;
 }
 .team-member:hover .team-hover, .team-member:hover .team-hover .desk, .team-member:hover .team-hover .s-link {
     opacity: 1;
@@ -2070,7 +2070,7 @@ body {
     transform: translateY(-55%);
     -webkit-transition: all 0.3s 0.2s;
     transition: all 0.3s 0.2s;
-    padding: 0 20px;
+    padding: 0 0px;
 }
 .desk, .desk h4, .team-hover .s-link a {
     text-align: center;
@@ -2123,3 +2123,6 @@ body {
     letter-spacing: 1px;
 }
 
+.space{
+  margin-top: 50px !important;
+}
