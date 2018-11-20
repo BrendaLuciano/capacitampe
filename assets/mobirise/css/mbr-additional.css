@@ -20,7 +20,7 @@ body {
   line-height: 1.3;
   text-align: center !important;
   margin-left: -30px;
-  margin-right: 10px;
+  margin-right: 100px;
   font-size: 8px;
 }
 .display-1 {
@@ -192,6 +192,8 @@ body {
   background-color: #f78a1c !important;
   border-color: #f78a1c !important;
   color: #ffffff !important;
+  width: 550px !important;
+  height: 55px !important; 
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -203,6 +205,74 @@ body {
 }
 .btn-info.disabled,
 .btn-info:disabled {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
+.btn-info-2,
+.btn-info-2:active {
+  background-color: #f78a1c !important;
+  border-color: #f78a1c !important;
+  color: #ffffff !important;
+  width: 450px !important;
+  height: 50px !important; 
+  padding-right: 100px !important;
+}
+.btn-info-2:hover,
+.btn-info-2:focus,
+.btn-info-2.focus,
+.btn-info-2.active {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
+.btn-info-2.disabled,
+.btn-info-2:disabled {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
+.btn-more,
+.btn-more:active {
+  background-color: #f78a1c !important;
+  border-color: #f78a1c !important;
+  color: #ffffff !important;
+  width: 250px !important;
+  height: 50px !important; 
+}
+.btn-more:hover,
+.btn-more:focus,
+.btn-more.focus,
+.btn-more.active {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
+.btn-more.disabled,
+.btn-more:disabled {
+  color: #ffffff !important;
+  background-color: #c06407 !important; 
+  border-color: #c06407 !important;
+}
+.btn-send,
+.btn-send:active {
+  background-color: #f78a1c !important;
+  border-color: #f78a1c !important;
+  color: #ffffff !important;
+  width: 250px !important;
+  height: 50px !important; 
+  margin-right: 42px !important;
+}
+.btn-send:hover,
+.btn-send:focus,
+.btn-send.focus,
+.btn-send.active {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
+.btn-send.disabled,
+.btn-send:disabled {
   color: #ffffff !important;
   background-color: #c06407 !important;
   border-color: #c06407 !important;
@@ -661,8 +731,10 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.3rem;
   line-height: 1.43;
-  min-height: 3.5em;
-  padding: 1.07em .5em;
+  min-height: 0.5em;
+  padding: 0.4em .4em;
+  width: 100% !important;
+  height: auto !important;
 }
 .form-control > .mbr-iconfont {
   font-size: 2.08rem;
@@ -727,7 +799,7 @@ pre {
 }
 .mbr-form .input-group-btn button[type="submit"] {
   border-radius: 100px !important;
-  padding: 1rem 3rem;
+  padding: 0rem 3rem;
 }
 .mbr-form .input-group-btn button[type="submit"]:hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
@@ -1862,13 +1934,15 @@ body {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
+  
 }
 .cid-qUhRvD6kM7 .input-group-btn {
   justify-content: center;
 }
 @media (min-width: 768px) {
   .cid-qUhRvD6kM7 .content-container {
-    padding-right: 5rem;
+    padding-right: 93px !important;
+    margin-left: 350px !important;
   }
 }
 .cid-qUhRvD6kM7 .mbr-text,
@@ -1963,19 +2037,37 @@ body {
   color: #0a4e90;
 }
 
-.button-card{
-  background-color: #f7861c !important;
-  text-align: center;
-  border-color: #f7861c !important;
+.button-card,
+.button-card:active {
+  background-color: #f78a1c !important;
+  border-color: #f78a1c !important;
+  border-radius: 20px !important;
   color: #ffffff !important;
-  border-radius: 20px;
-  padding-right: 20px;
-  padding-left: 20px;
-  padding-bottom: 20px;
-  padding-top: 20px;
-  font-size: 15px;
-  margin-left: 130px;
-  }
+  font-family: inherit;
+  font-size: 16px !important;
+  font-weight: 500;
+  width: 150px !important;
+  min-height: 50px !important; 
+  padding-left: 40px !important;
+  padding-top: 10px;
+  padding-right: 20px !important;
+  margin-left: 70px;
+  transition: .5s;
+}
+.button-card:hover,
+.button-card:focus,
+.button-card.focus,
+.button-card.active {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
+.button-card.disabled,
+.button-card:disabled {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
   
   .text-card{
   text-align: center;
