@@ -214,8 +214,9 @@ body {
   background-color: #f78a1c !important;
   border-color: #f78a1c !important;
   color: #ffffff !important;
-  width: 450px !important;
+  width: 550px !important;
   height: 50px !important; 
+  margin-left: 20px !important;
   padding-right: 100px !important;
 }
 .btn-info-2:hover,
