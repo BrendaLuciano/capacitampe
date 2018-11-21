@@ -299,7 +299,7 @@ nav .mbr-section-btn {
   display: inline-block;
   height: 60px;
   width: 60px;
-  outline-style: none !important;
+  outline-style: none !important; 
   position: relative;
   text-decoration: none;
   transition: all .3s ease-in-out;
@@ -469,7 +469,7 @@ nav .mbr-section-btn {
 
 }
 .carrossel .active{
-  background-color: #00427D !important;
+  background-color: rgb(1, 247, 255) !important;
 
 }
 .carrossel li{

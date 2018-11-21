@@ -2028,9 +2028,9 @@ body {
 }
 
 .imagem-icone{
-  width: 120px;
-  height: 120px;
-  margin-left: 160px;
+  width: 100px;
+  height: 100px;
+  margin-left: 150px;
 }
 
 .card-text{
@@ -2054,6 +2054,7 @@ body {
   padding-right: 20px !important;
   margin-left: 100px;
   transition: .5s;
+  margin-bottom: 70px !important;
 }
 .button-card:hover,
 .button-card:focus,
@@ -2225,4 +2226,16 @@ body {
 
 .space{
   margin-top: 50px !important;
+}
+.carousel-indicators li{
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  background-color: #0a4e90 !important;
+}
+.carousel-indicators.active {
+  background-color: #5ec1ff !important;
 }
