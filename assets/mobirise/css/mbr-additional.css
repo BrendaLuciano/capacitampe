@@ -1886,7 +1886,7 @@ body {
 .cid-qUoiHSXsX9 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background-capacita-degrad-real-oficial-1440x900.png");
+ /*  background-image: url("../../../assets/images/background-capacita-degrad-real-oficial-1440x900.png"); */
 }
 .cid-qUoiHSXsX9 .mbr-section-subtitle {
   color: #ffffff;
@@ -1944,6 +1944,7 @@ body {
   .cid-qUhRvD6kM7 .content-container {
     padding-right: 93px !important;
     margin-left: 350px !important;
+    margin-bottom: -41px !important;
   }
 }
 .cid-qUhRvD6kM7 .mbr-text,
