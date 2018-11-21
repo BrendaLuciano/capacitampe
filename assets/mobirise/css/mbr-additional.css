@@ -2123,6 +2123,13 @@ body {
     font-weight: bold !important;
     padding-left: 170px;
 }
+.text-uppercase-2 {
+    font-size: 35px;
+    color: #f7861c;
+    font-family: "Montserrat" !important;
+    font-weight: bold !important;
+    padding-left: 380px;
+}
 
 .team-member, .team-member .team-img {
     position: relative;
