@@ -198,9 +198,9 @@ body {
 .btn-info:hover,
 .btn-info:focus,
 .btn-info.focus,
-.btn-info.active {
+.btn-info.active { 
   color: #ffffff !important;
-  background-color: #c06407 !important;
+  background-color: #c06407 !important; 
   border-color: #c06407 !important;
 }
 .btn-info.disabled,
@@ -2042,7 +2042,7 @@ body {
 .button-card:active {
   background-color: #f78a1c !important;
   border-color: #f78a1c !important;
-  border-radius: 20px !important;
+  border-radius: 100px !important;
   color: #ffffff !important;
   font-family: inherit;
   font-size: 16px !important;
@@ -2052,7 +2052,7 @@ body {
   padding-left: 40px !important;
   padding-top: 10px;
   padding-right: 20px !important;
-  margin-left: 70px;
+  margin-left: 100px;
   transition: .5s;
 }
 .button-card:hover,
