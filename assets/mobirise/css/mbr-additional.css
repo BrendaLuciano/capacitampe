@@ -2033,6 +2033,11 @@ body {
   height: 100px;
   margin-left: 150px;
 }
+.imagem-icone-2{
+  width: 100px;
+  height: 100px;
+  margin-left: 283px;
+}
 
 .card-text{
   text-align: center;
@@ -2072,9 +2077,16 @@ body {
   border-color: #c06407 !important;
 }
   
-  .text-card{
+.text-card{
   text-align: center;
   color: #000 !important;
+}
+.text-card-2{
+  font-size: 20px;
+  color: #fff;
+  font-family: "Montserrat" !important;
+  text-align: center;
+  padding-left: 20px !important;
 }
 .button-card-2,
 .button-card-2:active {
@@ -2154,8 +2166,6 @@ body {
     padding-left: 130px;
 }
 .text-uppercase {
-  text-transform: lowercase;
-
     font-size: 35px;
     color: #f7861c;
     font-family: "Montserrat" !important;

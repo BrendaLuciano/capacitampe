@@ -491,6 +491,15 @@ text-align: center;
 margin-right: 50px !important;
 margin-bottom: 20px !important;
 }
+.titles-capacita-2{
+  font-size: 54px !important;
+  color: white !important;
+  font-family: "Montserrat" !important;
+  font-weight: bold !important;
+  text-align: center;
+  padding-left: 15px !important;
+  margin-bottom: 20px !important;
+  }
 .titles-talk{
   font-size: 55px !important;
   color: white;
