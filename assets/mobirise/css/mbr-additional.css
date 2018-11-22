@@ -2272,8 +2272,8 @@ body {
   margin-right: 3px;
   margin-left: 3px;
   text-indent: -999px;
-  background-color: #0a4e90 !important;
+  background-color: #009CDE !important; 
 }
-.carousel-indicators.active {
-  background-color: #5ec1ff !important;
+.carousel-indicators li.active {
+  background-color: #0a4e90 !important;
 }
