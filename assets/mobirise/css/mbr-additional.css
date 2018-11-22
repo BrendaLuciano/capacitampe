@@ -2076,6 +2076,43 @@ body {
   text-align: center;
   color: #000 !important;
 }
+.button-card-2,
+.button-card-2:active {
+  background-color: #f78a1c !important;
+  border-color: #f78a1c !important;
+  border-radius: 100px !important;
+  color: #ffffff !important;
+  font-family: inherit;
+  font-size: 16px !important;
+  text-align: center !important;
+  font-weight: 500;
+  width: 220px !important;
+  min-height: 50px !important; 
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  margin-left: 70px;
+  transition: .5s;
+  margin-bottom: 60px !important;
+}
+.button-card-2:hover,
+.button-card-2:focus,
+.button-card-2.focus,
+.button-card-2.active {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
+.button-card-2.disabled,
+.button-card-2:disabled {
+  color: #ffffff !important;
+  background-color: #c06407 !important;
+  border-color: #c06407 !important;
+}
+  
+  .text-card{
+  text-align: center;
+  color: #000 !important;
+}
 
 .contact-text{
   text-align: center;
